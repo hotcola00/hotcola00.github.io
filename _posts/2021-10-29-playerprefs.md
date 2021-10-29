@@ -14,6 +14,6 @@ last_modified_at: 2021-10-29
 
 * HashMap 방식   
 <pre>
-	Key, Value로 이뤄진 형식   
-	로컬에 파일 형태로 저장됨   
+Key, Value로 이뤄진 형식   
+로컬에 파일 형태로 저장됨   
 </pre>
